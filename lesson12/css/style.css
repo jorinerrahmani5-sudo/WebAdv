@@ -46,3 +46,24 @@ p{
 #normalText{
     font-weight: 900;
 }
+
+a{
+    color: red;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited{
+    color: purple;
+}
+
+a:hover{
+    color: hotpink;
+}
+
+a:active{
+    color: green;
+}
+
